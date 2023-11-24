@@ -2,7 +2,7 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![Car Showcase](https://www.awesomescreenshot.com/image/44468603?key=82bfe172b87b0f1fd9749cee45b7e4ec)
+![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
 
 ## Getting Started
 
